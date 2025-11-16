@@ -1,5 +1,5 @@
 # EX 6: MOVING FILES BETWEEN VIRTUAL MACHINES
-## Namee:Dhayananth.P.S
+## Name:Dhayananth.P.S
 ## Reg:212223040039
 ## Aim:
 ### To move the files between virtual machine.
